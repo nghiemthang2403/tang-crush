@@ -6,7 +6,7 @@ const CONFIG = {
     Có khó gì đâu một buổi chiều
     Gặp đưuọc em cái thế là iu`,
     btnIntro: 'Vỉa hè qué <3',
-    title: 'Liệu rằng tình cảm sắp chín 😙',
+    title: 'Anh biết rằng thời cơ sắp chín 😙',
     desc: 'hay là chưa nở để anh bón phân ',
     btnYes: 'Em iu anh <33',
     btnNo: 'Bạn bè thuii :3',
